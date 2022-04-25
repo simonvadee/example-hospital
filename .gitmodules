@@ -4,3 +4,6 @@
 [submodule "dbt-somethingelse"]
 	path = dbt-somethingelse
 	url = git@github.com:simonvadee/dbt-mimic.git
+[submodule "dbt-crossed-mimic-somethingelse"]
+	path = dbt-crossed-mimic-somethingelse
+	url = git@github.com:simonvadee/dbt-crossed-mimic-somethingelse.git
